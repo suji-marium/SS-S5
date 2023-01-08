@@ -1,0 +1,4 @@
+START	*
+LDA	03
+STA	0F
+END 	*
